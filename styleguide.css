@@ -1,0 +1,38 @@
+:root {
+  --principal: rgba(4, 99, 50, 1);
+  --secundario: rgba(243, 165, 75, 1);
+  --secundario-dark: rgba(199, 130, 51, 1);
+  --bordeboton: rgba(191, 201, 187, 1);
+  --fondolight: rgba(255, 255, 255, 1);
+  --fondoprincipal: rgba(255, 255, 255, 1);
+  --textoprincipal: rgba(65, 65, 65, 1);
+  --textosecundario: rgba(160, 162, 161, 1);
+  --fondomenu: rgba(243, 165, 75, 1);
+  --principaldark: rgba(31, 38, 35, 1);
+  --primerytextfondo: rgba(230, 240, 235, 1);
+  --fondoweb: rgba(233, 233, 233, 1);
+  --font-slogan-font-family: "Roboto-Regular", Helvetica;
+  --font-slogan-font-weight: 400;
+  --font-slogan-font-size: 14px;
+  --font-slogan-letter-spacing: -0.5px;
+  --font-slogan-line-height: normal;
+  --font-slogan-font-style: normal;
+  --font-text-general-font-family: "Roboto-Regular", Helvetica;
+  --font-text-general-font-weight: 400;
+  --font-text-general-font-size: 12px;
+  --font-text-general-letter-spacing: 0px;
+  --font-text-general-line-height: normal;
+  --font-text-general-font-style: normal;
+  --font-text-nav-font-family: "Roboto-Medium", Helvetica;
+  --font-text-nav-font-weight: 500;
+  --font-text-nav-font-size: 20px;
+  --font-text-nav-letter-spacing: 0px;
+  --font-text-nav-line-height: normal;
+  --font-text-nav-font-style: normal;
+  --font-text-title-font-family: "Roboto-SemiBold", Helvetica;
+  --font-text-title-font-weight: 600;
+  --font-text-title-font-size: 14px;
+  --font-text-title-letter-spacing: 0px;
+  --font-text-title-line-height: normal;
+  --font-text-title-font-style: normal;
+}
